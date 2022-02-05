@@ -19,7 +19,12 @@
   },
   "dependencies": {
     "@apollo/gateway": "^0.13.2",
-    "apollo-server": "^2.11.0"
+    "apollo-server": "^2.11.0",
+    "dotenv": "^8.6.0",
+    "graphql": "^14.6.0",
+    "moment": "^2.29.1",
+    "mongodb": "^4.2.1",
+    "mongoose": "^6.1.6"
   },
   "keywords": [],
   "author": "",
